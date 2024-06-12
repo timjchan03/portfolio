@@ -1,18 +1,18 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Timothy Chan
+description: Data Analytics / Engineering
+site_title: '@timjchan03 - Timothy Chan'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: timjchan03
+blog_url: 
+email: timjchan03@gmail.com
+keybase_username: timjchan03
+twitter_username: timjchan03
+reddit_username: timjchan03
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
